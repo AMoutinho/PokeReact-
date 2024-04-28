@@ -1,4 +1,4 @@
-# <p align=center><img align="center" src="https://i.imgur.com/NEblwlS.png" height="155" width="160"/> <img align="center" src="https://i.imgur.com/EexqKtn.png" height="150" width="360"/> <img align="center" src="https://i.imgur.com/DPnkMnP.png"  height="155" width="160"/></p>
+<p align=center><img align="center" src="https://i.imgur.com/NEblwlS.png" height="155" width="160"/> <img align="center" src="https://i.imgur.com/EexqKtn.png" height="150" width="360"/> <img align="center" src="https://i.imgur.com/DPnkMnP.png"  height="155" width="160"/></p>
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
@@ -23,10 +23,47 @@
 
 <h2 id="screenshots">Screenshots 📸</h2>
 
-<img align="center" src="####" width="300"/> 
-<img align="center" src="####" width="300"/> 
-<img align="center" src="####" width="300"/> 
-<img align="center" src="####" width="300"/> 
+<b>OBSERVAÇÃO: <i>Passe o mouse sobre a imagem, para ler a descrição</i></b>
+<br>
+<br>
+
+<img align="center" src="https://i.imgur.com/xOiJCQ8.png" title="Tela Principal" height="141" width="70"/> 
+
+<img width="21"/> 
+
+<img align="center" src="https://i.imgur.com/FnwYNKX.png" title="Tela da Pokedex" height="141" width="70"/> 
+
+<img width="21"/> 
+
+<img align="center" src="https://i.imgur.com/r6rmCQI.png" title="Tela da Pokedex com Detalhe do Pokemon" height="141" width="70"/> 
+
+<img width="21"/> 
+
+<img align="center" src="https://i.imgur.com/0PXklgj.png" title="Tela de Buscar Pokemon" height="141" width="70"/> 
+
+<img width="21"/> 
+
+<img align="center" src="https://i.imgur.com/rDGWXfe.png" title="Tela de Evoluções" height="141" width="70"/>
+
+<br><br>
+
+<img align="center" src="https://i.imgur.com/7qDau2q.png" title="Tela de Detalhes das Evoluções" height="141" width="70"/>
+
+<img width="21"/> 
+  
+<img align="center" src="https://i.imgur.com/Mt5kuqJ.png" title="Tela de Tipos" height="141" width="70"/> 
+
+<img width="21"/> 
+
+<img align="center" src="https://i.imgur.com/w2TzXpC.png" title="Tela de Detalhes de Tipos" height="141" width="70"/> 
+
+<img width="21"/> 
+
+<img align="center" src="https://i.imgur.com/0rnapcN.png" title="Tela de Itens" height="141" width="70"/> 
+
+<img width="21"/> 
+
+<img align="center" src="https://i.imgur.com/nMRDl0j.png" title="Tela de Detalhes de Itens" height="141" width="70"/> 
 
 
 <h2 id="autor">Autor do Projeto 👨‍💼</h2>
