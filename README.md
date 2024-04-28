@@ -1,11 +1,33 @@
-# Sample Snack app
+# <p align=center><img align="center" src="https://i.imgur.com/NEblwlS.png" height="155" width="160"/> <img align="center" src="https://i.imgur.com/EexqKtn.png" height="150" width="360"/> <img align="center" src="https://i.imgur.com/DPnkMnP.png"  height="155" width="160"/></p>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<div id="inicio" align=center>
+  <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
+  <a href="#progresso">Progresso do Projeto</a>&nbsp;&nbsp;&nbsp;  
+  <a href="#linguagens">Tecnologias e IDE utilizadas</a>&nbsp;&nbsp;&nbsp;
+  <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;
+  <a href="#autor">Autor</a>&nbsp;&nbsp;&nbsp; 
+</div><br>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+<h2 id="sobre">Sobre o projeto 🔎</h2>
+<p>Projeto de uma pokedex desenvolvida em react native com Expo consumindo duas API's, e diversas funcionalidades.</p>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+<h2 id="progresso">Progresso do Projeto 📈</h2>
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+<a href="#" title="STATUS"><img src="https://img.shields.io/badge/STATUS-Concluído-green?style=for-the-badge" alt="Projeto Concluído"></a>
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<h2 id="linguagens">Tecnologias e IDE Utilizadas 📚</h2>
+
+<div style="display: inline_block">
+<!-- LOGO EXPO SNACK + REACT NATIVE -->  
+<img align="center" src="https://i.imgur.com/ykaHrgT.png" width="300"/> 
+
+<h2 id="screenshots">Screenshots 📸</h2>
+
+<img align="center" src="https://i.imgur.com/20r5FSG.png" width="300"/> 
+<img align="center" src="https://i.imgur.com/NGTGvJC.png" width="300"/> 
+<img align="center" src="https://i.imgur.com/CtY6Isi.png" width="300"/> 
+<img align="center" src="https://i.imgur.com/zuuKh6m.png" width="300"/> 
+
+
+<h2 id="autor">Autor do Projeto 👨‍💼</h2>
+<a href="https://github.com/AMoutinho" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a>  
