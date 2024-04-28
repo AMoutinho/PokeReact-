@@ -23,10 +23,10 @@
 
 <h2 id="screenshots">Screenshots 📸</h2>
 
-<img align="center" src="https://i.imgur.com/20r5FSG.png" width="300"/> 
-<img align="center" src="https://i.imgur.com/NGTGvJC.png" width="300"/> 
-<img align="center" src="https://i.imgur.com/CtY6Isi.png" width="300"/> 
-<img align="center" src="https://i.imgur.com/zuuKh6m.png" width="300"/> 
+<img align="center" src="####" width="300"/> 
+<img align="center" src="####" width="300"/> 
+<img align="center" src="####" width="300"/> 
+<img align="center" src="####" width="300"/> 
 
 
 <h2 id="autor">Autor do Projeto 👨‍💼</h2>
