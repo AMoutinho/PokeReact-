@@ -1,99 +1,11 @@
-# <p align=center><img align="center" src="https://i.imgur.com/NEblwlS.png" height="150" width="150"/> <img align="center" src="https://i.imgur.com/AwBtkWQ.png" height="155" width="360"/> <img align="center" src="https://i.imgur.com/DPnkMnP.png" height="150" width="150"/></p>
+# Sample Snack app
 
-<div id="inicio" align=center>
-  <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
-  <a href="#progresso">Progresso do Projeto</a>&nbsp;&nbsp;&nbsp;  
-  <a href="#linguagens">Tecnologias e IDE utilizadas</a>&nbsp;&nbsp;&nbsp;
-  <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;
-  <a href="#autor">Autor</a>&nbsp;&nbsp;&nbsp; 
-</div><br>
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-<h2 id="sobre">Sobre o projeto 🔎</h2>
-<p>O Projeto PokeReact é uma pokedex desenvolvida em react native com Expo consumindo duas API's contendo diversas funcionalidades.</p>
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-<h2 id="progresso">Progresso do Projeto 📈</h2>
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-<a href="#" title="STATUS"><img src="https://img.shields.io/badge/STATUS-Concluído-green?style=for-the-badge" alt="Projeto Concluído"></a>
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-<h2 id="linguagens">Tecnologias 📚</h2>
-
-<div style="display: inline_block">
-<!-- LOGOS REACT NATIVE -->   
-<img align="center" src="https://i.imgur.com/MynGYBF.png" width="200"/>
-<!-- LOGO EXPO SNACK -->  
-<img align="center" src="https://assets-global.website-files.com/64d4ce10600bd67e51c42838/650d5d9ce364e01cf3cc138f_expo.png" width="200"/> 
-
-<h2 id="screenshots">Screenshots 📸</h2>
-
-<p><b>OBSERVAÇÃO:</b><i> Coloque o cursor do mouse sobre a imagem para ler a descrição da tela...</i></p>
-<b><b><b><b><b><b><b><b>
-<img align="center" title="Tela Principal" src="https://i.imgur.com/xOiJCQ8.png" width="95"/>  
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-
-<img align="center" title="Tela Pokedex" src="https://i.imgur.com/FnwYNKX.png" width="95"/>
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-
-<img align="center" title="Tela de Detalhe do Pokemon da Pokedex" src="https://i.imgur.com/r6rmCQI.png" width="95"/>
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-
-<img align="center" title="Tela de Buscar Pokemon da Pokedex" src="https://i.imgur.com/0PXklgj.png" width="95"/>
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-
-<img align="center" title="Tela de Evoluções" src="https://i.imgur.com/rDGWXfe.png" width="95"/>
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-
-<br><br>
-
-<img align="center" title="Tela de Detalhe da Evolução" src="https://i.imgur.com/7qDau2q.png" width="95"/>
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-
-<img align="center" title="Tela de Tipos" src="https://i.imgur.com/Mt5kuqJ.png" width="95"/>
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-
-<img align="center" title="Tela de Detalhe do Tipo" src="https://i.imgur.com/w2TzXpC.png" width="95"/>
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-
-<img align="center" title="Tela de Itens" src="https://i.imgur.com/0rnapcN.png" width="95"/>
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY/j//z8ABf4C/qc1gY4AAAAASUVORK5CYII=" width="5"/>
-
-<img align="center" title="Tela de Detalhe do Item" src="https://i.imgur.com/nMRDl0j.png" width="95"/>
-
-<h2 id="autor">Autor do Projeto 👨‍💼</h2>
-<a href="https://github.com/AMoutinho" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a>  
-
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
