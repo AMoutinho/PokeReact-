@@ -1,4 +1,4 @@
-<p align=center><img align="center" src="https://i.imgur.com/NEblwlS.png" height="155" width="160"/> <img align="center" src="https://i.imgur.com/EexqKtn.png" height="150" width="360"/> <img align="center" src="https://i.imgur.com/DPnkMnP.png"  height="155" width="160"/></p>
+<p align=center><img align="center" src="https://i.postimg.cc/HsXpnzzS/giphy.gif" height="155" width="160"/> <img align="center" src="https://i.postimg.cc/bwPqtnFq/pokedex.png"  width="365"/> <img align="center" src="https://i.postimg.cc/nh1pYL6B/pikachu2.gif"  height="155" width="160"/></p>
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
@@ -19,52 +19,15 @@
 
 <div style="display: inline_block">
 <!-- LOGO EXPO SNACK + REACT NATIVE -->  
-<img align="center" src="https://i.imgur.com/ykaHrgT.png" width="300"/> 
+<img align="center" src="https://i.postimg.cc/vBNKtRYW/1-Pog-HCE4l-Xdrlkq-Q0-UXYTg.jpg" /> 
 
 <h2 id="screenshots">Screenshots 📸</h2>
 
-<b>OBSERVAÇÃO: <i>Passe o mouse sobre a imagem, para ler a descrição</i></b>
+<b>OBSERVAÇÃO: <i>Clique na imagem para ampliar</i></b>
 <br>
 <br>
 
-<img align="center" src="https://i.imgur.com/xOiJCQ8.png" title="Tela Principal" height="141" width="70"/> 
-
-<img width="21"/> 
-
-<img align="center" src="https://i.imgur.com/FnwYNKX.png" title="Tela da Pokedex" height="141" width="70"/> 
-
-<img width="21"/> 
-
-<img align="center" src="https://i.imgur.com/r6rmCQI.png" title="Tela da Pokedex com Detalhe do Pokemon" height="141" width="70"/> 
-
-<img width="21"/> 
-
-<img align="center" src="https://i.imgur.com/0PXklgj.png" title="Tela de Buscar Pokemon" height="141" width="70"/> 
-
-<img width="21"/> 
-
-<img align="center" src="https://i.imgur.com/rDGWXfe.png" title="Tela de Evoluções" height="141" width="70"/>
-
-<br><br>
-
-<img align="center" src="https://i.imgur.com/7qDau2q.png" title="Tela de Detalhes das Evoluções" height="141" width="70"/>
-
-<img width="21"/> 
-  
-<img align="center" src="https://i.imgur.com/Mt5kuqJ.png" title="Tela de Tipos" height="141" width="70"/> 
-
-<img width="21"/> 
-
-<img align="center" src="https://i.imgur.com/w2TzXpC.png" title="Tela de Detalhes de Tipos" height="141" width="70"/> 
-
-<img width="21"/> 
-
-<img align="center" src="https://i.imgur.com/0rnapcN.png" title="Tela de Itens" height="141" width="70"/> 
-
-<img width="21"/> 
-
-<img align="center" src="https://i.imgur.com/nMRDl0j.png" title="Tela de Detalhes de Itens" height="141" width="70"/> 
-
+<img align="center" src="https://i.postimg.cc/2SD4JH3h/Telas.png" title="Telas" /> 
 
 <h2 id="autor">Autor do Projeto 👨‍💼</h2>
 <a href="https://github.com/AMoutinho" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a>  
